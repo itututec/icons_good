@@ -32,10 +32,6 @@
 - 将以上地址最后的 xxxxx 换成对应的图标名称即可。<a href="#圆角矩形图标">
 - **或者直接到 https://cdn.jsdelivr.net/gh/xushier/HD-Icons/ 查看获取。**
 
-## 使用本地链接（后续更新不会同步，不推荐）
-将图片下载到本地，使用本地路径或链接调用。
-- 例如，图标文件在 `/mnt/user/appdata/icons` 下，则图标地址填写 `/mnt/user/appdata/icons/xxxxx.png` 或者 `http://127.0.0.1/mnt/user/appdata/icons/xxxxx.png`，将 xxxxx 换成对应的图标名称即可，<a href="#圆角矩形图标"><strong>图标名称预览在此 »</strong></a>
-
 # 图标预览（当前共计 1045 个）
 ## 圆角矩形图标
 <!-- START BORDER-RADIUS ICONS -->
