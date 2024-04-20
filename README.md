@@ -2,13 +2,6 @@
   <h3 align = "center" > 高清仪表盘图标 </h3>
 </p>
 
-# 目录
-- [说明](#说明)
-- [使用方法](#使用方法)
-- [图标预览](#圆角矩形图标)
-- [赞助](#赞助)
-- [声明](#声明)
-
 <!-- GETTING STARTED -->
 # 说明
 
@@ -23,6 +16,7 @@
   - [Organizr(v2)](https://github.com/causefx/Organizr)
   - [Flame](https://github.com/pawelmalak/flame)
   - [SUI](https://github.com/jeroenpardon/sui)
+  - https://github.com/xushier/HD-Icons
 
 # 使用方法
 
