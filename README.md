@@ -29,7 +29,7 @@
    - 例如：`https://ghproxy.com/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/xxxxx.png`
    - 又或者：`https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/xxxxx.png`
 
-- 将以上地址最后的 xxxxx 换成对应的图标名称即可。<a href="#圆角矩形图标"><strong>图标名称预览在此 »</strong></a>
+- 将以上地址最后的 xxxxx 换成对应的图标名称即可。<a href="#圆角矩形图标">
 - **或者直接到 https://cdn.jsdelivr.net/gh/xushier/HD-Icons/ 查看获取。**
 
 ## 使用本地链接（后续更新不会同步，不推荐）
